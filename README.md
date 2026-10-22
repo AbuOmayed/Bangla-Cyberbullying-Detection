@@ -1,12 +1,9 @@
-# A Large-Scale Multiclass Dataset and Comparative Analysis for Bangla Cyberbullying Detection
+## A Large-Scale Multiclass Dataset and Comparative Analysis for Bangla Cyberbullying Detection
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3+-blue.svg)](https://www.python.org/downloads/)
 
-This is the official repository for the paper **"A Large-Scale Multiclass Dataset and Comparative Analysis for Bangla Cyberbullying Detection"**. 
-
-This repository contains the data preprocessing scripts, model training codes, and evaluation pipelines for detecting multiclass cyberbullying in Bengali social media posts and comments.
-
+### Note: This dataset will be made publicly available upon the paper's publication (currently under peer review).
 ## 📌 Overview
 
 Detecting cyberbullying in low-resource languages like Bangla is challenging due to limited training data, inconsistent spelling, and non-standard linguistic structures. This project introduces a new, large-scale multi-class dataset containing **104,218** social media texts manually categorized into five classes. 
