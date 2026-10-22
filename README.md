@@ -68,15 +68,6 @@ All models were evaluated on an identical held-out test set using Accuracy, Macr
 | **SVM (TF-IDF)** | **83.49** | **0.8348** | **0.958** |
 | Naive Bayes (TF-IDF)| 77.27 | 0.7275 | 0.944 |
 
-## ⚙️ Setup & Installation
-
-Clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/yourusername/bangla-cyberbullying-detection.git
-cd bangla-cyberbullying-detection
-pip install -r requirements.txt
-```
 
 ## 📖 Citation
 
