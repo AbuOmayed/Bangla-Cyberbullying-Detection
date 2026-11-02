@@ -22,8 +22,6 @@ We benchmarked three families of models on this dataset:
 
 The dataset was constructed by cleaning, consolidating, and re-annotating two publicly available datasets (a Kaggle dataset and Jahin et al., 2025). 
 
-*(Note: The full consolidated dataset is available upon request to the primary author. A sample is provided in the `data/` folder).*
-
 ### Class Distribution
 | Class | Sample Count | Percentage (%) |
 | :--- | :---: | :---: |
